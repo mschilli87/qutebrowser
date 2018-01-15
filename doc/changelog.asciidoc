@@ -102,7 +102,7 @@ Changed
   download.
 - `:jseval --file` now searches relative paths in a `js/` subdir in
   qutebrowser's data dir, e.g. `~/.local/share/qutebrowser/js`.
-- The current/default bindings are now shown in the ``:bind` completion.
+- The current/default bindings are now shown in the `:bind` completion.
 - Empty categories are now hidden in the `:open` completion.
 - Search terms for URLs and titles can now be mixed when filtering the
   completion.
